@@ -1,0 +1,8 @@
+.dev{
+    border-radius: 120px;
+    border: 12px solid rgb(101, 199, 88);
+    color: rgb(21, 112, 9);
+    font-size: large;
+    background-color:gainsboro;
+    text-align: center;
+}
